@@ -9,10 +9,10 @@ Project ini merupakan implementasi metode Deep Learning untuk menyelesaikan perm
 - Mengevaluasi performa model
 
 ## Dataset
-Dataset yang digunakan: [ https://www.kaggle.com/datasets/wiratrnn/banana-ripeness-image-dataset]
+Dataset yang digunakan: https://www.kaggle.com/datasets/wiratrnn/banana-ripeness-image-dataset
 
 Sumber dataset:
-[Kaggle ]
+Kaggle 
 
 ## Tools dan Library
 - Python
@@ -70,5 +70,5 @@ Model deep learning berhasil diimplementasikan dan menunjukkan performa yang [ba
 
 ## Author
 Nama: Anita Yesubut
-Mata Kuliah: [Pengantar Algoritma Deep Learning]
+Mata Kuliah: Pengantar Algoritma Deep Learning
 Tahun: 2026
